@@ -41,9 +41,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a focus
 -->
 ### 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mostafa-abdel-nasser-9b946020a/)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/0xMostafaNasser)
-- **Email:** [your-email@example.com](mailto:mostafa_abdeal-nasseer213@outlook.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mostafa-abdel-nasser-9b946020a/)
+- **Twitter:** [My Twitter Profile](https://twitter.com/0xMostafaNasser)
+- **Email:** [mostafa_abdeal-nasseer213@outlook.com](mailto:mostafa_abdeal-nasseer213@outlook.com)
 <!--
 ### 📄 Blog Posts
 
